@@ -9,9 +9,9 @@ This game do wee use varius assets and we made a functional Ai tank bots that ca
 You start in one corner of the map and have to take out 4 enemie tanks and when you have killed those tanks a boss spawns. the boss is a lot harder too kill because he have 3 times the lives as the regular tanks.
 
 LifeStats:
-Player: 200
-Enemie Tank: 100
-Boss Tank: 300
+- Player: 200
+- Enemie Tank: 100
+- Boss Tank: 300
 
 
 # Credits

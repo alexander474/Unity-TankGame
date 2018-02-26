@@ -15,9 +15,9 @@ Boss Tank: 300
 
 
 # Credits
--Alexander Bredesen https://github.com/alexander474/
--Vegard Gallefoss
--Jason Nilsen https://github.com/jlwcrews
+- Alexander Bredesen https://github.com/alexander474/
+- Vegard Gallefoss
+- Jason Nilsen https://github.com/jlwcrews
 
 
 # References

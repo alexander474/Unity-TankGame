@@ -21,11 +21,11 @@ Jason Nilsen
 
 
 # References
-➢ Camera-script: - http://wiki.unity3d.com/index.php/SmoothMouseLook - https://answers.unity.com/questions/1329439/switch-between-cameras-inc.html 
-➢ Movement-script: https://unity3d.com/learn/tutorials/projects/tankstutorial/tank-creation-control?playlist=20081 
-➢ Shooting-script: - https://forum.unity.com/threads/gun-shooting-script-c.222057/ - https://answers.unity.com/questions/665352/shot-                           delay-between-buttonpress-c.html 
-➢ Explosion-script: https://unity3d.com/learn/tutorials 
-➢ Volume-slider: https://www.youtube.com/watch?v=YOaYQrN1oYQ 
-➢ Healthbar-script: https://www.youtube.com/watch?v=UKs1qO8w7qc 
-➢ Billboard-script: https://unity3d.com/learn/tutorials/topics/multiplayernetworking/player-health-single-player 
-➢ AI-scripts: https://www.youtube.com/channel/UCp_SOgsRYdLfIEWLjM62ZJg
+- Camera-script: - http://wiki.unity3d.com/index.php/SmoothMouseLook - https://answers.unity.com/questions/1329439/switch-between-cameras-inc.html 
+- Movement-script: https://unity3d.com/learn/tutorials/projects/tankstutorial/tank-creation-control?playlist=20081 
+- Shooting-script: - https://forum.unity.com/threads/gun-shooting-script-c.222057/ - https://answers.unity.com/questions/665352/shot-                           delay-between-buttonpress-c.html 
+- Explosion-script: https://unity3d.com/learn/tutorials 
+- Volume-slider: https://www.youtube.com/watch?v=YOaYQrN1oYQ 
+- Healthbar-script: https://www.youtube.com/watch?v=UKs1qO8w7qc 
+- Billboard-script: https://unity3d.com/learn/tutorials/topics/multiplayernetworking/player-health-single-player 
+- AI-scripts: https://www.youtube.com/channel/UCp_SOgsRYdLfIEWLjM62ZJg

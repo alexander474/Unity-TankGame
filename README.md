@@ -24,7 +24,7 @@ LifeStats:
 ![Settings](../master/GamePictures/Settings.png)
 ![HowToPlay](../master/GamePictures/HowToPlay.png)
 ![GamePlay](../master/GamePictures/GamePlay.png)
-![GamePlay](../master/GamePictures/GamePlay.png)
+![GamePlay](../master/GamePictures/GamePlay2.png)
 
 # References
 - Camera-script: - http://wiki.unity3d.com/index.php/SmoothMouseLook - https://answers.unity.com/questions/1329439/switch-between-cameras-inc.html 

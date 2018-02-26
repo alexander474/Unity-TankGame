@@ -20,6 +20,7 @@ LifeStats:
 - Jason Nilsen https://github.com/jlwcrews
 
 ![MainMenu](Menu.png)
+![MainMenu](../master/GamePictures/Menu.png)
 
 # References
 - Camera-script: - http://wiki.unity3d.com/index.php/SmoothMouseLook - https://answers.unity.com/questions/1329439/switch-between-cameras-inc.html 
